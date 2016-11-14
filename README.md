@@ -205,6 +205,7 @@ CALCULATIONS
 Check if a number is a prime
 
     perl6 -e 'say "7 is prime" if 7.is-prime'
+    perl6 -e 'say 83.is-prime'
 
 Print the sum of all the fields on a line
 
